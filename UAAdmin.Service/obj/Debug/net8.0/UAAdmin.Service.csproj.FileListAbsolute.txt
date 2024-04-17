@@ -1,0 +1,14 @@
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\bin\Debug\net8.0\UAAdmin.Service.deps.json
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\bin\Debug\net8.0\UAAdmin.Service.runtimeconfig.json
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\bin\Debug\net8.0\UAAdmin.Service.dll
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\bin\Debug\net8.0\UAAdmin.Service.pdb
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.csproj.AssemblyReference.cache
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.AssemblyInfoInputs.cache
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.AssemblyInfo.cs
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.csproj.CoreCompileInputs.cache
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.dll
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\refint\UAAdmin.Service.dll
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.pdb
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.genruntimeconfig.cache
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\ref\UAAdmin.Service.dll

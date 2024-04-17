@@ -1,0 +1,14 @@
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\bin\Debug\net8.0\UAAdmin.Data.deps.json
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\bin\Debug\net8.0\UAAdmin.Data.runtimeconfig.json
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\bin\Debug\net8.0\UAAdmin.Data.dll
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\bin\Debug\net8.0\UAAdmin.Data.pdb
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\UAAdmin.Data.csproj.AssemblyReference.cache
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\UAAdmin.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\UAAdmin.Data.AssemblyInfoInputs.cache
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\UAAdmin.Data.AssemblyInfo.cs
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\UAAdmin.Data.csproj.CoreCompileInputs.cache
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\UAAdmin.Data.dll
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\refint\UAAdmin.Data.dll
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\UAAdmin.Data.pdb
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\UAAdmin.Data.genruntimeconfig.cache
+D:\GitUrbanAutoWeb\UrbanAutoAdmin\UAAdmin\UAAdmin.Data\obj\Debug\net8.0\ref\UAAdmin.Data.dll
