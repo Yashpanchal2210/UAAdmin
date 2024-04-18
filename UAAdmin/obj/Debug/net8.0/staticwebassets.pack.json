@@ -1,247 +1,899 @@
 {
   "Files": [
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UAAdmin.bundle.scp.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UAAdmin.bundle.scp.css",
       "PackagePath": "staticwebassets\\UAAdmin.bundle.scp.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\css\\site.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\dashlite.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dashlite.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\dashlite.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dashlite.min.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\dashlite.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dashlite.rtl.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\dashlite.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dashlite.rtl.min.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\editors\\quill.css",
+      "PackagePath": "staticwebassets\\assets\\css\\editors\\quill.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\editors\\quill.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\editors\\quill.rtl.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\editors\\summernote.css",
+      "PackagePath": "staticwebassets\\assets\\css\\editors\\summernote.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\editors\\summernote.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\editors\\summernote.rtl.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\editors\\tinymce.css",
+      "PackagePath": "staticwebassets\\assets\\css\\editors\\tinymce.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\editors\\tinymce.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\editors\\tinymce.rtl.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\libs\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\libs\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\libs\\fontawesome-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\libs\\fontawesome-icons.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\libs\\jstree.css",
+      "PackagePath": "staticwebassets\\assets\\css\\libs\\jstree.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\libs\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\libs\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\skins\\theme-blue.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-blue.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\skins\\theme-bluelite.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-bluelite.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\skins\\theme-egyptian.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-egyptian.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\skins\\theme-green.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-green.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\skins\\theme-red.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-red.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\style-email.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style-email.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Bold.eot"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Bold.ttf"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Bold.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Bold.woff2"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Medium.eot"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Medium.ttf"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Medium.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Medium.woff2"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Regular.eot"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Regular.ttf"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Regular.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\DMSans-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Regular.woff2"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\Nioicon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nioicon.eot"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\Nioicon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nioicon.svg"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\Nioicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nioicon.ttf"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\Nioicon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nioicon.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\summernote.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote.woff2"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\fonts\\tinymce-mobile.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tinymce-mobile.woff"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\images\\jsTree\\32px-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\jsTree\\32px-dark.png"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\images\\jsTree\\32px.png",
+      "PackagePath": "staticwebassets\\assets\\images\\jsTree\\32px.png"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\images\\jsTree\\40px-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\jsTree\\40px-dark.png"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\images\\jsTree\\40px.png",
+      "PackagePath": "staticwebassets\\assets\\images\\jsTree\\40px.png"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\images\\jsTree\\throbber-dark.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\jsTree\\throbber-dark.gif"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\images\\jsTree\\throbber.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\jsTree\\throbber.gif"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\apps\\calendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\calendar.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\apps\\chats.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\chats.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\apps\\file-manager.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\file-manager.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\apps\\inbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\inbox.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\apps\\kanban.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\kanban.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\apps\\messages.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\messages.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bundle.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\charts\\chart-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-analytics.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\charts\\chart-ecommerce.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-ecommerce.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\charts\\chart-lms.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-lms.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\charts\\chart-sales.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-sales.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\charts\\chart-widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-widgets.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\editors.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editors.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\example-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\example-chart.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\example-dragula.js",
+      "PackagePath": "staticwebassets\\assets\\js\\example-dragula.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\example-listbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\example-listbox.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\example-map.js",
+      "PackagePath": "staticwebassets\\assets\\js\\example-map.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\example-sweetalert.js",
+      "PackagePath": "staticwebassets\\assets\\js\\example-sweetalert.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\example-toastr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\example-toastr.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\example-tree.js",
+      "PackagePath": "staticwebassets\\assets\\js\\example-tree.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\datatable-btns.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\datatable-btns.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\dragula.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\dragula.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\dual-listbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\dual-listbox.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\editors\\quill.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\editors\\quill.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\editors\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\editors\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\editors\\summernote.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\editors\\summernote.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\editors\\tinymce.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\editors\\tinymce.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\fullcalendar.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\jkanban.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\jkanban.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\jqvmap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\jqvmap.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\jstree.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\jstree.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\libs\\tagify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\tagify.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\favicon.ico",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\site.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\apps\\calendar.js",
+      "PackagePath": "staticwebassets\\js\\apps\\calendar.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\apps\\chats.js",
+      "PackagePath": "staticwebassets\\js\\apps\\chats.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\apps\\file-manager.js",
+      "PackagePath": "staticwebassets\\js\\apps\\file-manager.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\apps\\inbox.js",
+      "PackagePath": "staticwebassets\\js\\apps\\inbox.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\apps\\kanban.js",
+      "PackagePath": "staticwebassets\\js\\apps\\kanban.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\apps\\messages.js",
+      "PackagePath": "staticwebassets\\js\\apps\\messages.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\bundle.js",
+      "PackagePath": "staticwebassets\\js\\bundle.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\charts\\chart-analytics.js",
+      "PackagePath": "staticwebassets\\js\\charts\\chart-analytics.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\charts\\chart-ecommerce.js",
+      "PackagePath": "staticwebassets\\js\\charts\\chart-ecommerce.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\charts\\chart-lms.js",
+      "PackagePath": "staticwebassets\\js\\charts\\chart-lms.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\charts\\chart-sales.js",
+      "PackagePath": "staticwebassets\\js\\charts\\chart-sales.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\charts\\chart-widgets.js",
+      "PackagePath": "staticwebassets\\js\\charts\\chart-widgets.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\editors.js",
+      "PackagePath": "staticwebassets\\js\\editors.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\example-chart.js",
+      "PackagePath": "staticwebassets\\js\\example-chart.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\example-dragula.js",
+      "PackagePath": "staticwebassets\\js\\example-dragula.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\example-listbox.js",
+      "PackagePath": "staticwebassets\\js\\example-listbox.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\example-map.js",
+      "PackagePath": "staticwebassets\\js\\example-map.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\example-sweetalert.js",
+      "PackagePath": "staticwebassets\\js\\example-sweetalert.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\example-toastr.js",
+      "PackagePath": "staticwebassets\\js\\example-toastr.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\example-tree.js",
+      "PackagePath": "staticwebassets\\js\\example-tree.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\datatable-btns.js",
+      "PackagePath": "staticwebassets\\js\\libs\\datatable-btns.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\dragula.js",
+      "PackagePath": "staticwebassets\\js\\libs\\dragula.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\dual-listbox.js",
+      "PackagePath": "staticwebassets\\js\\libs\\dual-listbox.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\editors\\quill.js",
+      "PackagePath": "staticwebassets\\js\\libs\\editors\\quill.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\editors\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\js\\libs\\editors\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\editors\\summernote.js",
+      "PackagePath": "staticwebassets\\js\\libs\\editors\\summernote.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\editors\\tinymce.js",
+      "PackagePath": "staticwebassets\\js\\libs\\editors\\tinymce.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\js\\libs\\fullcalendar.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\jkanban.js",
+      "PackagePath": "staticwebassets\\js\\libs\\jkanban.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\jqvmap.js",
+      "PackagePath": "staticwebassets\\js\\libs\\jqvmap.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\jstree.js",
+      "PackagePath": "staticwebassets\\js\\libs\\jstree.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\libs\\tagify.js",
+      "PackagePath": "staticwebassets\\js\\libs\\tagify.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jquery-steps\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jquery-steps\\jquery.steps.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jquery-steps\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jquery-steps\\jquery.steps.min.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\nioapp\\nioapp.min.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\nioapp\\nioapp.min.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\js\\vendors\\prettify.js",
+      "PackagePath": "staticwebassets\\js\\vendors\\prettify.js"
+    },
+    {
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

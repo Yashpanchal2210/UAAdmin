@@ -8804,24 +8804,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\panch\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\yashi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj",
+      "projectUniqueName": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj",
       "projectName": "UAAdmin",
-      "projectPath": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj",
-      "packagesPath": "C:\\Users\\panch\\.nuget\\packages\\",
-      "outputPath": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin\\obj\\",
+      "projectPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj",
+      "packagesPath": "C:\\Users\\yashi\\.nuget\\packages\\",
+      "outputPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\panch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\yashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8835,8 +8830,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj": {
-              "projectPath": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj"
+            "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj": {
+              "projectPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj"
             }
           }
         }
@@ -8845,11 +8840,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8912,7 +8902,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

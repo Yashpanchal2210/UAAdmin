@@ -8780,24 +8780,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\panch\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\yashi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj",
+      "projectUniqueName": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj",
       "projectName": "UAAdmin.Data",
-      "projectPath": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj",
-      "packagesPath": "C:\\Users\\panch\\.nuget\\packages\\",
-      "outputPath": "D:\\GitUrbanAutoWeb\\UrbanAutoAdmin\\UAAdmin\\UAAdmin.Data\\obj\\",
+      "projectPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj",
+      "packagesPath": "C:\\Users\\yashi\\.nuget\\packages\\",
+      "outputPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\panch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\yashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8817,11 +8812,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8881,7 +8871,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
