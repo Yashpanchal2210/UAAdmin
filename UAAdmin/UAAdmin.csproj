@@ -122,7 +122,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UAAdmin.Data\UAAdmin.Data.csproj" />
+    <ProjectReference Include="..\UAAdmin.Service\UAAdmin.Service.csproj" />
   </ItemGroup>
 
 </Project>

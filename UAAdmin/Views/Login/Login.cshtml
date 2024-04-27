@@ -1,5 +1,8 @@
-﻿@{
+﻿@model UAAdmin.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
     Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+    string errorMessage = Model.ErrorMessage;
 }
 
 
@@ -20,14 +23,15 @@
                     </div>
                 </div>
             </div><!-- .nk-block-head -->
-            @using (Html.BeginForm("Login", "Login", FormMethod.Post, new { id = "Validateform" }))
+            @using (Html.BeginForm("Login", "Login", FormMethod.Post, new { id = "LoginForm" }))
             {
+                @Html.HiddenFor(t => t.ReturnUrl)
                 <div class="form-group">
                     <div class="form-label-group">
                         <label class="form-label" for="default-01">Username</label>
                     </div>
                     <div class="form-control-wrap">
-                        <input type="text" class="form-control form-control-lg" id="UserName" name="UserName" placeholder="Enter your username">
+                        <input type="text" class="form-control form-control-lg" id="Username" name="Username" placeholder="Enter your username" value="@Model.Username">
                     </div>
                     <div style="text-align:left;">
                         <span class="clsErrorMsg text-danger" id="ErrorUserName"></span>
@@ -50,15 +54,15 @@
                         <span class="clsErrorMsg text-danger" id="ErrorPassword"></span>
                     </div>
                 </div>
-                @* @if (!string.IsNullOrEmpty(errorMessage))
-            {
-            <div class="text-center mb-3">
-            <h5 class="mb-0 text-danger">@errorMessage</h5>
-            </div>
-            } *@
+              @*   @if (!string.IsNullOrEmpty(errorMessage))
+                {
+                    <div class="text-center mb-3">
+                        <h5 class="mb-0 text-danger">@errorMessage</h5>
+                    </div>
+                } *@
                 <!-- .form-group -->
                 <div class="form-group">
-                    <button class="btn btn-lg btn-primary btn-block" id="btnSubmit">Login</button>
+                    <button type="button" class="btn btn-lg btn-primary btn-block" id="btnSubmit">Login</button>
                 </div>
             }
         </div><!-- .nk-block -->
@@ -69,7 +73,13 @@
 @section scripts {
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script type="text/javascript">
-        $(document).ready(function () {
+        $(document).ready(function (e) {
+            var Msg = '@errorMessage';
+            if (Msg != '') {
+                NioApp.Toast(Msg, 'error', {
+                    position: 'top-right'
+                });
+            }
 
             const passcodeSwitch = document.querySelector('.passcode-switch');
             const passwordInput = document.getElementById('Password');
@@ -93,7 +103,7 @@
 
         $('#btnSubmit').click(function (event) {
 
-            var userName = $("#UserName").val();
+            var userName = $("#Username").val();
             var password = $("#Password").val();
             var isValidForm = true;
 
@@ -111,8 +121,8 @@
                 $("#ErrorPassword").text("");
             }
 
-            if (!isValidForm) {
-                event.preventDefault();
+            if (isValidForm) {
+                $("#LoginForm").submit();
             }
 
         });

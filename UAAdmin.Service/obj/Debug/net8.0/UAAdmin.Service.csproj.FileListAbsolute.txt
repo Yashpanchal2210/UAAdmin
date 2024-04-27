@@ -42,3 +42,6 @@ D:\GitUrbanAutoWeb\UAAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\refint\UAAdm
 D:\GitUrbanAutoWeb\UAAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.pdb
 D:\GitUrbanAutoWeb\UAAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin.Service.genruntimeconfig.cache
 D:\GitUrbanAutoWeb\UAAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\ref\UAAdmin.Service.dll
+D:\GitUrbanAutoWeb\UAAdmin\UAAdmin\UAAdmin.Service\bin\Debug\net8.0\UAAdmin.Data.dll
+D:\GitUrbanAutoWeb\UAAdmin\UAAdmin\UAAdmin.Service\bin\Debug\net8.0\UAAdmin.Data.pdb
+D:\GitUrbanAutoWeb\UAAdmin\UAAdmin\UAAdmin.Service\obj\Debug\net8.0\UAAdmin..BC9A7A95.Up2Date

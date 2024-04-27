@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Model\" />
-    <Folder Include="Service\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,6 +25,10 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UAAdmin.Data\UAAdmin.Data.csproj" />
   </ItemGroup>
 
 </Project>

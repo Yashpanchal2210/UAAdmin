@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44E47733-6857-4F3A-8B5C-4312EA370074}|UAAdmin.Service\\UAAdmin.Service.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin.service\\repo\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44E47733-6857-4F3A-8B5C-4312EA370074}|UAAdmin.Service\\UAAdmin.Service.csproj|solutionrelative:uaadmin.service\\repo\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|solutionrelative:uaadmin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|solutionrelative:uaadmin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|solutionrelative:uaadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin\\views\\home\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|solutionrelative:uaadmin\\views\\home\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|solutionrelative:uaadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44E47733-6857-4F3A-8B5C-4312EA370074}|UAAdmin.Service\\UAAdmin.Service.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin.service\\repo\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44E47733-6857-4F3A-8B5C-4312EA370074}|UAAdmin.Service\\UAAdmin.Service.csproj|solutionrelative:uaadmin.service\\repo\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|solutionrelative:uaadmin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|solutionrelative:uaadmin\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|solutionrelative:uaadmin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|d:\\giturbanautoweb\\uaadmin\\uaadmin\\uaadmin\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA6C16F2-08BB-408B-81A7-7BEC6491A376}|UAAdmin\\UAAdmin.csproj|solutionrelative:uaadmin\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Program.cs",
-              "RelativeDocumentMoniker": "UAAdmin\\Program.cs",
-              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Program.cs",
-              "RelativeToolTip": "UAAdmin\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T15:39:01.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Service\\Repo\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "UAAdmin.Service\\Repo\\GenericRepository.cs",
-              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Service\\Repo\\GenericRepository.cs",
-              "RelativeToolTip": "UAAdmin.Service\\Repo\\GenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T15:37:18.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Service\\Repo\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "UAAdmin.Service\\Repo\\IGenericRepository.cs",
-              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Service\\Repo\\IGenericRepository.cs",
-              "RelativeToolTip": "UAAdmin.Service\\Repo\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T15:37:44.761Z",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "UAAdmin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "UAAdmin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:45:18.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "UAAdmin\\Models\\LoginViewModel.cs",
-              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "UAAdmin\\Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T15:34:46.812Z",
+              "Title": "Error404.cshtml",
+              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Views\\Home\\Error404.cshtml",
+              "RelativeDocumentMoniker": "UAAdmin\\Views\\Home\\Error404.cshtml",
+              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Views\\Home\\Error404.cshtml",
+              "RelativeToolTip": "UAAdmin\\Views\\Home\\Error404.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:35:51.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutLogin.cshtml",
+              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeDocumentMoniker": "UAAdmin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeToolTip": "UAAdmin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T16:54:47.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "UAAdmin\\Program.cs",
+              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Program.cs",
+              "RelativeToolTip": "UAAdmin\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:28:01.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "UAAdmin\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "UAAdmin\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwE4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T16:23:59.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UAAdmin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UAAdmin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:15:47.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "UAAdmin\\Controllers\\LoginController.cs",
               "ToolTip": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\Controllers\\LoginController.cs",
               "RelativeToolTip": "UAAdmin\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T15:32:48.084Z",
+              "WhenOpened": "2024-04-27T16:15:39.123Z",
               "EditorCaption": ""
             }
           ]

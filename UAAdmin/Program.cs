@@ -1,8 +1,11 @@
 using AutoMapper;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using UAAdmin;
 using UAAdmin.Infrastructure;
+using UAAdmin.Service.Service.CRM;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,10 +15,18 @@ builder.Services.AddDistributedMemoryCache();
 builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped<IMapper, Mapper>();
+builder.Services.AddScoped<ICRMRepository, CRMRepository>();
 
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddControllersWithViews().AddCookieTempDataProvider();
 
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(option => {
+        option.ExpireTimeSpan = TimeSpan.FromMinutes(30);
+        option.LoginPath = "/Account/Login";
+        option.AccessDeniedPath = "/Home/Error404";
+    });
 
 builder.Services.AddSession(options =>
 {
@@ -33,7 +44,6 @@ var app = builder.Build();
 builder.Services.AddHttpContextAccessor();
 SessionFactory.Configure(app.Services.GetRequiredService<IHttpContextAccessor>());
 //For session factory end
-
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
