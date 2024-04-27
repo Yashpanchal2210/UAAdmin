@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj": {}
+    "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj": {}
   },
   "projects": {
-    "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj": {
+    "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj",
+        "projectUniqueName": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj",
         "projectName": "UAAdmin.Data",
-        "projectPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj",
-        "packagesPath": "C:\\Users\\yashi\\.nuget\\packages\\",
-        "outputPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\obj\\",
+        "projectPath": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj",
+        "packagesPath": "C:\\Users\\panch\\.nuget\\packages\\",
+        "outputPath": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\yashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\panch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -93,21 +102,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj": {
+    "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj",
+        "projectUniqueName": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj",
         "projectName": "UAAdmin",
-        "projectPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj",
-        "packagesPath": "C:\\Users\\yashi\\.nuget\\packages\\",
-        "outputPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin\\obj\\",
+        "projectPath": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\UAAdmin.csproj",
+        "packagesPath": "C:\\Users\\panch\\.nuget\\packages\\",
+        "outputPath": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\yashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\panch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,8 +134,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj": {
-                "projectPath": "E:\\NIK\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj"
+              "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj": {
+                "projectPath": "D:\\GitUrbanAutoWeb\\UAAdmin\\UAAdmin\\UAAdmin.Data\\UAAdmin.Data.csproj"
               }
             }
           }
@@ -131,6 +144,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -193,7 +211,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

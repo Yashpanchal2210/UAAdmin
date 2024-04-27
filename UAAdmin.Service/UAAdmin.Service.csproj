@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Service\" />
-    <Folder Include="Repo\" />
   </ItemGroup>
 
   <ItemGroup>
