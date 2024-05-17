@@ -49,24 +49,31 @@ namespace UAAdmin.Controllers
                         CookieAuthenticationDefaults.AuthenticationScheme);
                     var principal = new ClaimsPrincipal(identity);
                     HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
-                    HttpContext.Session.SetString("email", loginViewModel.Username);
+                    HttpContext.Session.SetString("AdminName", loginViewModel.Username);
                     HttpContext.Session.SetString("isUserLogged", "True");
 
                     AlertMessage = "You have been successfully logged in";
 
                     if (!String.IsNullOrEmpty(loginViewModel.ReturnUrl))
                     {
-                        return RedirectToAction("Index", "Home");
+                        return RedirectToAction("Dashboard", "Dashboard");
                     }
                     else
                     {
-                        return RedirectToAction("Index", "Home");
+                        return RedirectToAction("Dashboard", "Dashboard");
                     }
                 }
             }
             loginViewModel.ErrorMessage = "Please enter valid credentials";
             return View(loginViewModel);
         }
+
+        public IActionResult LogOut()
+        {
+            HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Login", "Login");
+        }
+
         #endregion
     }
 }

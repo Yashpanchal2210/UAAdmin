@@ -16,7 +16,7 @@ builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped<IMapper, Mapper>();
 builder.Services.AddScoped<ICRMRepository, CRMRepository>();
-
+builder.Services.ConfigureApplicationCookie(options => options.LoginPath = "/");
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddControllersWithViews().AddCookieTempDataProvider();
 
@@ -24,9 +24,16 @@ builder.Services.AddControllersWithViews().AddCookieTempDataProvider();
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(option => {
         option.ExpireTimeSpan = TimeSpan.FromMinutes(30);
-        option.LoginPath = "/Account/Login";
+        option.LoginPath = "/Login/Login";
         option.AccessDeniedPath = "/Home/Error404";
     });
+
+builder.Services.AddAuthorization(options =>
+{
+    options.DefaultPolicy = new AuthorizationPolicyBuilder()
+        .RequireAuthenticatedUser()
+        .Build();
+});
 
 builder.Services.AddSession(options =>
 {
